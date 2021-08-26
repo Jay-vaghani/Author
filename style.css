@@ -1,0 +1,112 @@
+img {
+    width: 100%;
+}
+
+#section-1 a{
+    color: #c7423f;
+}
+#section-1 a:hover{
+    transform: scale(0.99);
+}
+
+
+#header-ul-one {
+    font-size: 15px;
+}
+
+#book-img-1 {
+    width: 100%;
+}
+
+#book-img-2 {
+    width: 150px;
+}
+
+#png img {
+    width: 180px;
+}
+
+
+/* .blockquote-footer::before {
+    content: "";
+} */
+
+#section-3 {
+    background-color: #ecebe7;
+}
+
+#section-3 p {
+    font-size: 16px;
+}
+
+#section-5 {
+    background-color: #c7423f;
+}
+
+#section-5 a {
+    padding: 25px 46px;
+    background-color: white;
+    border-radius: 5px;
+    color: #c7423f;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    transition: 0.3s;
+    cursor: pointer;
+    user-select: none;
+}
+
+#section-5 a:hover {
+    color: #c7423f;
+    background-color: #f3c7c6;
+    transform: scale(0.96);
+}
+
+#section-5 a:active {
+    transform: scale(.94);
+}
+
+#section-6 {
+    background-color: #ecebe7;
+}
+
+#section-6 a {
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    transition: 0.3s;
+    cursor: pointer;
+    user-select: none;
+}
+
+#section-6 input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.308);
+    outline: none;
+}
+
+#section-6 a:hover {
+    transform: scale(0.96);
+}
+
+#section-6 a:active {
+    transform: scale(.94);
+}
+
+footer {
+    background-color: #ecebe7;
+    height: 60px;
+    border-width: 80%;
+    border-top: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.274);
+    border-top: 1px solid rgba(0, 0, 0, 0.274);
+}
